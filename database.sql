@@ -141,7 +141,7 @@ CREATE TABLE `Users` (
 
 LOCK TABLES `Users` WRITE;
 /*!40000 ALTER TABLE `Users` DISABLE KEYS */;
-INSERT INTO `Users` VALUES (1,'miltank23','p@ssw0rd',NULL,NULL,NULL,NULL,'zanganeh_mm@yahoo.com','2025-01-31 12:04:13'),(3,'test','milad','d9d994d74b300d00a6f5505e91660628',NULL,NULL,NULL,'test@yahoo.com','2025-02-01 15:51:52'),(24,'test2','test2',NULL,NULL,NULL,NULL,'test2@yahoo.com','2025-02-01 18:57:35');
+INSERT INTO `Users` VALUES (1,'mil','p@ssw0rd',NULL,NULL,NULL,NULL,'zang@yahoo.com','2025-01-31 12:04:13'),(3,'test','milad','d9d994d74b300d00a6f5505e91660628',NULL,NULL,NULL,'test@yahoo.com','2025-02-01 15:51:52'),(24,'test2','test2',NULL,NULL,NULL,NULL,'test2@yahoo.com','2025-02-01 18:57:35');
 /*!40000 ALTER TABLE `Users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
